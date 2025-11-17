@@ -13,7 +13,8 @@ Hello! 👋 I’m **Christian Aniedi Sunday**, a passionate front-end developer 
 
 ## Skills
 - **Front-End:** HTML, CSS, JavaScript  
-- **Frameworks (Learning):** React, Bootstrap  
+- **Frameworks (Learning):** Bootstrap and a js library(
+- react) 
 - **Tools:** VS Code, Chrome DevTools  
 - **Concepts:** Responsive Design, Web Accessibility, Cross-Browser Compatibility  
 
